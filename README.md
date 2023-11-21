@@ -17,11 +17,11 @@
 ## Instructions
 1. Clone Repository
 ``` bash
-git clone https://github.com/yaseeen96/Day-20-Snake-Game-Part-I.git
+git clone https://github.com/yaseeen96/Day-21-Snake-Game-Final.git
 ```
 2. Navigate to the cloned directory
 ``` bash
-cd Day-20-Snake-Game-Part-I
+cd Day-20-Snake-Game-Final
 ```
 ### Run Locally
 1. create virtual environment
