@@ -51,4 +51,11 @@ class Snake:
     def extend(self):
         # add new segment to game
         self.add_segment(self.segments[-1].position())
+
+    def reset(self):
+        for seg in self.segments:
+            seg.goto(10000,10000)
+        self.segments.clear()
+        self.create_snake()
+        self.head =  self.segments[0]
     
